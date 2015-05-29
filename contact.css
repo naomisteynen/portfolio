@@ -1,0 +1,151 @@
+body{
+	background-image: url(http://images9.images-speurders.nl/images/14/1418/141828809_2_big.jpg);
+}
+
+.kaderrechts{
+	background-color: #FFFFB2;
+	opacity: 0.9;
+	margin-left: 610px;
+	margin-top: 100px;
+	margin-bottom: 150px;
+	width: 600px;
+	height: 600px;
+	border: 5px solid rgb(230, 230, 92);
+	
+
+}
+
+.kaderlinks{
+	width: 400px;
+	height: 600px;
+	background-color: #FFFFB2;
+	margin-top: -760px;
+	margin-left: 150px;
+	border-style: groove;
+	border: 5px solid rgb(230, 230, 92);
+}
+
+input{
+ 	margin-left: 120px;
+	width: 360px;
+	height: 250px;
+	margin-top: 10px;
+}
+
+h5{
+	margin-left: 10px;
+	margin-top: 25px;
+	font-family: bold 'TT';
+	text-align: center;
+
+}
+ 
+
+button{
+	margin-left: 120px;
+	margin-top: 25px;
+}
+
+.me{
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+ul li{
+	
+ 	margin-top: 20px;
+
+
+}
+
+ul{
+	text-align: left;
+	margin-left: 50px;
+	margin-top: 20px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h4{
+	font-family: 'Penstriped';
+	font-size: 0.8em;
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 330px;
+	text-align: middle;
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+h1{
+	font-family: 'TT';
+	font-size: 4em;
+	margin: 9px;
+	margin-left: 110px;
+	
+
+}
+
+h2{
+	font-family: 'BRUSHED';
+	font-size: 2.8em;
+	float: center;
+	margin-left: 140px;
+	opacity: 0.9;
+
+}
+
+h3{
+	font-family: 'Indie Flower';
+	width: 500px;
+	margin-left: 50px;
+	margin-right: 100px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.antw{
+	font-family: 'Indie Flower';
+	font-size: 2em;
+	text-align: center;
+	padding:  150px;
+
+}
+
+
+.antwoord{
+	background-color: #FFFFB2;
+	opacity: 0.9;
+	margin-left: 600px;
+	margin-top: 100px;
+	margin-bottom: 150px;
+	width: 600px;
+	height: 600px;
+	border-style: groove;
+	border: 5px solid rgb(230, 230, 92);
+
+
+}
+
+.hidden{
+	display: none;
+}
+
+@font-face{
+	font-family: 'TT';
+	src: url('TT.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'BRUSHED';
+	src: url('BRUSHED.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'Penstriped';
+	src: url('Penstriped.ttf') format('truetype');
+}
